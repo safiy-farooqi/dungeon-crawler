@@ -1,0 +1,22 @@
+#— Operating system
+.DS_Store
+
+#— Maven build output
+target/
+
+#— IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+#— Java compiler / class files
+*.class
+
+#— Logs
+*.log
+
+#— Temporary files
+*.tmp
+*.swp
+
