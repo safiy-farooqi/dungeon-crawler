@@ -31,6 +31,10 @@ Explore levels, collect treasure, avoid monsters, and make it to the exit!
    git clone https://github.com/your-username/dungeon-crawler.git
    cd dungeon-crawler
 
+## 📷 Screenshots
 
-## 📷 ScreenShots
-![Short description of screenshot](/docs/screenshot.png)
+### Title Screen
+![Title Screen](./docs/titlescreen2.png)
+
+### Game View
+![Game View](./docs/gameview1.png)
