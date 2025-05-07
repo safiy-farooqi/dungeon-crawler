@@ -11,7 +11,7 @@ Explore levels, collect treasure, avoid monsters, and make it to the exit!
 - **Multiple levels** loaded from random enemy, treasure, and exit placement
 - **Collectibles**: golden treasure chests
 - **Enemies** that patrol or chase you
-- **Simple CSS styling** for UI components
+- **Simple CSS styling** for UI components along with digital artwork generated using ChatGPT
 
 ---
 
