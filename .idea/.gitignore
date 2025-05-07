@@ -1,0 +1,46 @@
+# OS generated
+###################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Maven build output
+###################
+/target/
+
+# IntelliJ IDEA
+###################
+/.idea/
+/*.iml
+/*.iws
+/.idea_modules/
+/out/
+
+# Eclipse (if you ever open this there)
+######################################
+.classpath
+.project
+.settings/
+
+# Java stuff
+###################
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+###################
+*.log
+
+# Temporary files
+###################
+*.tmp
+*.swp
+*~
+
+# Ignore wrappers and local settings
+######################################
+/mvnw
+/mvnw.cmd
+/.mvn/wrapper/maven-wrapper.jar
